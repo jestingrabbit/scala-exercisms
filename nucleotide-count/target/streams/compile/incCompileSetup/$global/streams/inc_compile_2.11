@@ -1,0 +1,107 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/bill/exercism/scala/nucleotide-count/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+1 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> /Users/bill/exercism/scala/nucleotide-count/target/scala-2.11/classes/DNA.class
+binary dependencies:
+2 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> /Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+1 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> DNA
+used names:
+31 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> +
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> ->
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> <init>
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> ==
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> AnyRef
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> Char
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> DNA
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> Int
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> List
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> Map
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> Nil
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> Predef
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> String
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> apply
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> asInstanceOf
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> augmentString
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> baseList
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> basesString
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> char
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> countStart
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> counter
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> head
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> immutable
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> isInstanceOf
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> list
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> map
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> nucleotideCounts
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> package
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> rest
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> scala
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> toList
+product stamps:
+1 items
+/Users/bill/exercism/scala/nucleotide-count/target/scala-2.11/classes/DNA.class -> lastModified(1465634447000)
+source stamps:
+1 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> hash(39c9b311243a313c79b7e38bc27f4f5dcef9bba6)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1454109346000)
+/Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.generic.GenMapFactory
+internal apis:
+1 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCRJ+GIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFUdPiF0AAZub3RpZnlzcQB+AAyonWEjdAAKY291bnRTdGFydHNxAH4ADOVWpWd0AAR3YWl0c3EAfgAMWCk1B3QADSRhc0luc3RhbmNlT2ZzcQB+AAyw9hcmdAAGZXF1YWxzc3EAfgAMLG3Vf3QADGFzSW5zdGFuY2VPZnNxAH4ADCnKGVt0AAxzeW5jaHJvbml6ZWRzcQB+AAxsLLNEdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ49+Uh0AAlub3RpZnlBbGxzcQB+AAxn/mctdAAMaXNJbnN0YW5jZU9mc3EAfgAMQdIZ6XQACGJhc2VMaXN0c3EAfgAM4VK+U3QAEG51Y2xlb3RpZGVDb3VudHNzcQB+AAyRtxK3dAAGPGluaXQ+c3EAfgAM7cN1+3QAAj09c3EAfgAMUr+lsHQABWNsb25lc3EAfgAMSjsRb3QAB2NvdW50ZXJzcQB+AAz8yB/BdAAIdG9TdHJpbmdzcQB+AAx1Zjb2dAACIT1zcQB+AAxv0rPndAAIZ2V0Q2xhc3NzcQB+AAwtOEHYdAADRE5Bc3EAfgAMh6Gqm3QAAm5lc3EAfgAMFMUlkXQAAmVxc3EAfgAMU49BjnQAAiMjc3EAfgAM3Z1zpXQACGZpbmFsaXplc3EAfgAMQPGZc3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBlc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVxAH4ARAAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVPp7QvXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvYmlsbC9leGVyY2lzbS9zY2FsYS9udWNsZW90aWRlLWNvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ5ybMRJDoxPHm344vCf09dzvm7pg==
+external apis:
+0 items
+source infos:
+1 items
+/Users/bill/exercism/scala/nucleotide-count/src/main/scala/nucleotide_count.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVT6a/rl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9iaWxsL2V4ZXJjaXNtL3NjYWxhL251Y2xlb3RpZGUtY291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVT6e0L11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9iaWxsL2V4ZXJjaXNtL3NjYWxhL251Y2xlb3RpZGUtY291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
