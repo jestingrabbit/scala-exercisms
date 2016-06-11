@@ -20,7 +20,6 @@ class WordCountSpecs extends FlatSpec with Matchers {
 
   it should "count everything just once" in {
     val phrase = new Phrase("all the kings horses and all the kings men")
-    phrase.wordCount
     val counts = Map(
       "all" -> 2, "the" -> 2, "kings" -> 2, "horses" -> 1, "and" -> 1, "men" -> 1
     )
