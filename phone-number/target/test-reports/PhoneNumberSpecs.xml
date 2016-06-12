@@ -6,9 +6,9 @@
     </properties>
                      <testcase classname="PhoneNumberSpecs" name="should clean the number" time="0.017">
                                                  
-                                               </testcase><testcase classname="PhoneNumberSpecs" name="should clean numbers with dots" time="0.0">
+                                               </testcase><testcase classname="PhoneNumberSpecs" name="should clean numbers with dots" time="0.001">
                                                  
-                                               </testcase><testcase classname="PhoneNumberSpecs" name="should be valid when 11 digits and first is 1" time="0.001">
+                                               </testcase><testcase classname="PhoneNumberSpecs" name="should be valid when 11 digits and first is 1" time="0.0">
                                                  
                                                </testcase><testcase classname="PhoneNumberSpecs" name="should be invalid when 11 digits" time="0.0">
                                                  

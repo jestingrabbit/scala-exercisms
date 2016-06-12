@@ -9,7 +9,7 @@ class PhoneNumber(input: String) {
       "0" * 10
     }
   }
-  val numberPattern = "(\\d\\d\\d)(\\d\\d\\d)(\\d\\d\\d\\d)".r
+  val numberPattern = """(\d{3})(\d{3})(\d{4})""".r
   val numberPattern(areaCode, middleThree, lastFour) = number
   override val toString = s"($areaCode) $middleThree-$lastFour"
 }
