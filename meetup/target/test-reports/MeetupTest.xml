@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Bills-MacBook-Pro.local" name="MeetupTest" tests="91" errors="0" failures="0" time="0.044">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.73-b02"/><property name="user.country.format" value="AU"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/bill/exercism/scala/meetup"/><property name="java.runtime.version" value="1.8.0_73-b02"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/b0/qmpgpp9n5vb5_x8rv15tr8x00000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/bill/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.11.5"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/bill"/><property name="user.timezone" value="Australia/Sydney"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/0.13.11/libexec/sbt-launch.jar"/><property name="user.name" value="bill"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/0.13.11/libexec/sbt-launch.jar test"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_73"/><property name="java.ext.dirs" value="/Users/bill/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="MeetupTest" name="monteenth of may 2013" time="0.023">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="monteenth of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="monteenth of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="tuesteenth of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="tuesteenth of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="tuesteenth of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="wednesteenth of january 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="wednesteenth of february 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="wednesteenth of june 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="thursteenth of may 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="thursteenth of june 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="thursteenth of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="friteenth of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="friteenth of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="friteenth of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="saturteenth of february 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="saturteenth of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="saturteenth of october 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="sunteenth of map 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="sunteenth of june 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="sunteenth of october 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first monday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first monday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first tuesday of may 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first tuesday of june 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first wednesday of july 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first wednesday of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first thursday of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first thursday of october 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first friday of november 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first friday of december 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first saturday of january 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first saturday of february 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first sunday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="first sunday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second monday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second monday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second tuesday of may 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second tuesday of june 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second wednesday of july 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second wednesday of august 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second thursday of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second thursday of october 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second friday of november 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second friday of december 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second saturday of january 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second saturday of february 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second sunday of march 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="second sunday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third monday of march 2013" time="0.002">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third monday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third tuesday of may 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third tuesday of june 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third wednesday of july 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third wednesday of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third thursday of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third thursday of october 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third friday of november 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third friday of december 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third saturday of january 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third saturday of february 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third sunday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="third sunday of april 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth monday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth monday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth tuesday of may 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth tuesday of june 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth wednesday of july 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth wednesday of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth thursday of september 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth thursday of october 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth friday of november 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth friday of december 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth saturday of january 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth saturday of february 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth sunday of march 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="fourth sunday of april 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last monday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last monday of april 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last tuesday of may 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last tuesday of june 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last wednesday of july 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last wednesday of august 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last thursday of september 2013" time="0.001">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last thursday of october 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last friday of november 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last friday of december 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last saturday of january 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last saturday of february 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last sunday of march 2013" time="0.0">
+                                                 
+                                               </testcase><testcase classname="MeetupTest" name="last sunday of april 2013" time="0.001">
+                                                 
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

@@ -1,0 +1,90 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/bill/exercism/scala/leap/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> /Users/bill/exercism/scala/leap/target/scala-2.11/classes/Year$.class
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> /Users/bill/exercism/scala/leap/target/scala-2.11/classes/Year.class
+binary dependencies:
+2 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> /Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> Year
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> Year$
+used names:
+12 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> !=
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> %
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> &&
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> <init>
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> ==
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> AnyRef
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> Boolean
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> Int
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> Year
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> scala
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> year
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> ||
+product stamps:
+2 items
+/Users/bill/exercism/scala/leap/target/scala-2.11/classes/Year$.class -> lastModified(1465714038000)
+/Users/bill/exercism/scala/leap/target/scala-2.11/classes/Year.class -> lastModified(1465714038000)
+source stamps:
+1 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> hash(28d9e856ed5d027ca2938f95344018ef87b0e8a9)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1454109346000)
+/Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Boolean
+internal apis:
+1 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBjCo81AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cI56Pjx0AAZub3RpZnlzcQB+AAztSPiddAAEd2FpdHNxAH4ADKAF9dJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMI+hBq3QABmVxdWFsc3NxAH4ADIf8det0AAZpc0xlYXBzcQB+AAxB/W/AdAAMYXNJbnN0YW5jZU9mc3EAfgAM0KM2anQADHN5bmNocm9uaXplZHNxAH4ADBEiGFl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMh2LxDXQABFllYXJzcQB+AAzqmZrQdAAJbm90aWZ5QWxsc3EAfgAMZMC0YXQADGlzSW5zdGFuY2VPZnNxAH4ADB+Lsq10AAY8aW5pdD5zcQB+AAzuhjS0dAAFYXBwbHlzcQB+AAymNvv8dAACPT1zcQB+AAxZQeL6dAAFY2xvbmVzcQB+AAw3nB6OdAAIdG9TdHJpbmdzcQB+AAytClQadAACIT1zcQB+AAzzCG0HdAAIZ2V0Q2xhc3NzcQB+AAzpDanDdAACbmVzcQB+AAwQQ0lKdAACZXFzcQB+AAyxpTbLdAACIyNzcQB+AAxg7uhZdAAIZmluYWxpemVzcQB+AAy53LcAdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AB91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBhc3EAfgBcdXEAfgBAAAAAAHNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHpzcQB+AG10AANBbnlzcQB+AHFzcQB+AHR1cQB+AHcAAAACc3EAfgB5dAAFc2NhbGFxAH4AgHNxAH4AQnEAfgBPdXEAfgBQAAAAAHNxAH4AUgB0AARZZWFydXEAfgBUAAAAAH5xAH4AVnQACENsYXNzRGVmdXEAfgBaAAAAAHNxAH4AXHEAfgBic3EAfgBcc3EAfgBkc3EAfgBcdXEAfgBAAAAAAHNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cQB+AGsAAAACc3EAfgBtcQB+AHBzcQB+AHFzcQB+AHR1cQB+AHcAAAADc3EAfgB5cQB+AHxzcQB+AHlxAH4AfnEAfgCAc3EAfgBtcQB+AIJzcQB+AHFzcQB+AHR1cQB+AHcAAAACc3EAfgB5cQB+AIdxAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVQ11MSnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvVXNlcnMvYmlsbC9leGVyY2lzbS9zY2FsYS9sZWFwL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQo2ehW7V0CfKKTj5U0QBjvh7DoqQ==
+external apis:
+0 items
+source infos:
+1 items
+/Users/bill/exercism/scala/leap/src/main/scala/year.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVUNdTEp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9Vc2Vycy9iaWxsL2V4ZXJjaXNtL3NjYWxhL2xlYXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

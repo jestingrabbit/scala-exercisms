@@ -1,0 +1,57 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/bill/exercism/scala/space-age/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3ce18e0c, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/classes:/Users/bill/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/bill/exercism/scala/space-age/target/scala-2.11/test-classes:/Users/bill/exercism/scala/space-age/target/scala-2.11/classes:/Users/bill/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.5.jar:/Users/bill/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/Users/bill/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:19: value onMercury is not a member of SpaceAge[0m
+[0m[[31merror[0m] [0m    age.onMercury should be (280.88)[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:26: value onVenus is not a member of SpaceAge[0m
+[0m[[31merror[0m] [0m    age.onVenus should be (9.78)[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:31: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : Long(2329871239L)[0m
+[0m[[31merror[0m] [0m required: Int[0m
+[0m[[31merror[0m] [0m    val age = SpaceAge(2329871239L)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:40: value onJupiter is not a member of SpaceAge[0m
+[0m[[31merror[0m] [0m    age.onJupiter should be (2.41)[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:45: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : Long(3000000000L)[0m
+[0m[[31merror[0m] [0m required: Int[0m
+[0m[[31merror[0m] [0m    val age = SpaceAge(3000000000L)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:52: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : Long(3210123456L)[0m
+[0m[[31merror[0m] [0m required: Int[0m
+[0m[[31merror[0m] [0m    val age = SpaceAge(3210123456L)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m/Users/bill/exercism/scala/space-age/src/test/scala/space_age_test.scala:59: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : Long(8210123456L)[0m
+[0m[[31merror[0m] [0m required: Int[0m
+[0m[[31merror[0m] [0m    val age = SpaceAge(8210123456L)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0m7 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(test:[31mcompileIncremental[0m) Compilation failed[0m
